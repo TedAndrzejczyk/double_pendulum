@@ -1,5 +1,5 @@
 # double_pendulum
-- Run the run_gui module, this is the only module that needs to be run by the user and automatically displays the GUI from the main_gui module
+- Run the run_gui module, this is the only module that needs to be run by the user
 - Adjust the sliders to change the double pendulum parameters to your specifications
 - The 'Reset' button returns the slider values to the defaults
 - The 'Undo' button reverts the slider values to the values from when the simulation was last run
