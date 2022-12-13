@@ -1,0 +1,10 @@
+name: double_pendulum
+channels:
+  - defaults
+dependencies:
+  - tk
+  - sympy
+  - matplotlib
+  - scipy
+  - numpy
+prefix: C:\Users\Ted\anaconda3\envs\double_pendulum
