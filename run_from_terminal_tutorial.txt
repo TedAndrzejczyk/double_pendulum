@@ -1,4 +1,4 @@
-Run double_pendulum package from command line
+# Run double_pendulum package from command line
 
 cd downloads
 git clone git@github.com:TedAndrzejczyk/double_pendulum.git
