@@ -6,7 +6,7 @@ cd double_pendulum
 conda env create --file environment.yml
 
 # if CondaValueError: prefix already exists: C:\Users\Ted\anaconda3\envs\double_pendulum
-# then run line below, put any number at '#'
+# then run line below, **OTHERWISE DO NOT RUN LINE BELOW**, put any number at '#'
 conda env create --file environment.yml -n double_pendulum_#
 
 # replace double_pendulum with double_pendulum_# below if that was used instead
